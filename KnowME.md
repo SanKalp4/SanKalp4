@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning** and 👀 for opportunities in the same.
 
-- ⚡ Fun fact **I play guitar at 3:00 am to wake my neighbours up**
+- ⚡ Fun fact **My mood brightens whenever I pull out my :guitar: & start :microphone: .**
 
 - 👉 **https://nbviewer.jupyter.org/** paste github link to showcase the notebook if github fails to load the same.
 
