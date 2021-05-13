@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/{SanKalp4}/count.svg)
 - 👋 Hello visitor, this is Sankalpa , a B.Tech, MBA and PGP in Data Science.
 - 👀 I’m interested in Data Science and looking for opportunities in the same.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
