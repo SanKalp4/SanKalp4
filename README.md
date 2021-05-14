@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Sankalpa</h3>
+<h3 align="left">Hi 👋, I'm Sankalpa ...</h3>
 <h4 align="left">I am a data science enthusiast with  over a year of work experience having B.Tech in AEIE , MBA in Marketing & PGP in Data Science</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp4&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp4" /> </p>
